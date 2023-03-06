@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+#  Project Api Standard with TypeORM
 
 Steps to run this project:
 
